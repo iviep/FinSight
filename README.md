@@ -15,7 +15,7 @@ Configured for:
 - Port: 5432
 - Database: finsight
 - User: postgres
-- Password: 2301
+- Password: -
 
 Create the database in pgAdmin 4 first if it does not exist.
 
