@@ -55,8 +55,6 @@ CSV/XLSX is supported. The importer recognizes Date, Description, Amount, Credit
 ## Simulator
 Try ₹10,000/month for 5 years. Adjust return and inflation assumptions to compare Conservative, Base and Optimistic scenarios.
 
-## AI
-The AI assistant and AI Intelligence workspace can use the configured NVIDIA NIM endpoint. See `README_NVIDIA_AI.md` and `README_REAL_AUTH.md` for configuration.
 
 ## Security
 Never commit `backend/.env`. Keep Google, SMTP, Twilio and NVIDIA credentials server-side only.
